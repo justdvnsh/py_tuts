@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Py_tuts
-baseurl: https://github.com/justdvnsh/py_tuts # name of the repository
+baseurl: /py_tuts # name of the repository
 email: justdvnsh2208@gmail.com
 
 
