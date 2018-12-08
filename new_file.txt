@@ -1,0 +1,10 @@
+A	cricket
+B	football
+C	tennis
+D	Badminton
+E	Hockey
+A	18
+B	19
+C	17
+D	21
+E	22
